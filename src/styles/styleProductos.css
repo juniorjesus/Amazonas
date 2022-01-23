@@ -1,0 +1,101 @@
+.title{
+   color:rgb(34, 0, 112);
+}
+.formRegPro{
+    align-items: center;
+    display: flex;
+    align-items: center;
+    background-image: url('https://staminamarketing.com/blog/wp-content/uploads/2020/06/tipos-de-productos-woocommerce.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+
+}
+.detalleP{
+    height: 100px;
+}
+.fP{
+    align-items: center;
+    margin: auto;
+    width: 60rem;
+    background-color: rgba(106, 211, 224, 0.74);
+    padding: 50px;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+#image{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.contgrid{
+    display: grid;
+    grid-template-columns: 3fr 2fr 1fr;
+    margin-top: 3rem;
+}
+.nomPro{
+    font-size: 16px;
+    font-weight:normal;
+    text-align:justify;
+    max-height: 39px;
+    overflow: hidden;
+    margin-bottom: 0;
+    padding-bottom: 5px;
+}
+.nomPro:hover{
+    max-height: 137px;
+    cursor: pointer;
+}
+.prePro{
+    font-size: 20px;
+    margin-bottom: 0;
+    color:#f0cd05;
+}
+.detpPro{
+    font-size: 16px;
+    font-weight:lighter;
+    text-align:justify;
+    max-height: 39px;
+    overflow: hidden;
+    text-decoration: none;
+}
+.detpPro:hover{
+    max-height: 135px;
+    cursor: pointer;
+}
+.contProducto{
+    width: 20vw;
+    cursor: pointer;
+    text-decoration: none;
+}
+.contProd{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin: 2rem;
+    
+}
+.imgPro:hover{
+    cursor: pointer;
+}
+
+.imgPro{
+    width:100%;
+ 
+height: 312px;
+}
+.noFind{
+    display: none;
+}
+.formEdi{
+    margin: auto;
+   width: 40rem;
+}
+.auth__social-networks{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin: -10px;
+    width: 50px;
+}
+.google-icon:hover{
+    cursor: pointer;
+}
