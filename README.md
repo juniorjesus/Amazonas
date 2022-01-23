@@ -25,7 +25,7 @@ ya tenemos nuestro proyecto corriendo en el navegador.
 
 ## Despliegue 📦
 
-https://login2-33276.web.app/auth
+https://
 
 ## Construido con 🛠️
 
@@ -54,8 +54,8 @@ las herramientas utlizadas en este proyecto son:
 
 ## Autores ✒️
 
-Oscar Raul Sue Alvarado
-https://github.com/oscarraulsue
+Junior Jesús López González
+https://github.com/juniorjesus
 
 ## Licencia 📄
 
