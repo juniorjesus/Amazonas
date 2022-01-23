@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img alt="Amazonas" src="https://res.cloudinary.com/djbaqvlnn/image/upload/v1641664241/Amazonas/logo-amazon_scsbms.png" />
+</h1>
+
 # Amazonas 
 
 En este proyecto podemos ver un catalogo de producto, tenemos una vista de detalle de los productos, zoom de la imágenes, geolocalización con mapa de referencia, registro de usuarios y autenticación con Google y Facebook
@@ -25,7 +29,7 @@ ya tenemos nuestro proyecto corriendo en el navegador.
 
 ## Despliegue 📦
 
-https://
+https://amazonas-omega.vercel.app/
 
 ## Construido con 🛠️
 
